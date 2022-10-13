@@ -11,7 +11,7 @@ First, go to your Seed node.
 
 Clone the repo in the seed node
 ```
-git clone https://github.com/jsancheziaa/prerancher-ubuntu-ansible.git
+git clone https://github.com/jsancheziaa/install-docker.git
 ```
 
 Go to prerancher-ubuntu-ansible folder, and edit the inventories with your data
