@@ -1,5 +1,5 @@
 
-###Configuring Ansible to install Docker. Rancher prerequisites
+### Configuring Ansible to install Docker. Rancher prerequisites
 ## Prerequisites
 Before you embark on this guide, here is what you need.
 
